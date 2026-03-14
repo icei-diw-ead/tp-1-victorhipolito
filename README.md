@@ -3,12 +3,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Victor Hipolito Silva Braga Reis
+Matricula: 902693
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Captura de Tela](images/Captura1.png)
 
 
 
